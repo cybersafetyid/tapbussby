@@ -1,0 +1,10 @@
+{
+  "apkUrl": "https://github.com/cybersafetyid/tapbussby/raw/main/taponbus.apk",
+  "versionCode": "12",
+  "versionName": "0.1.2.05092022R QRIS",
+  "versionNotes": [
+    "- Fix Jam BV",
+    "- Fix pop up dialog BCA Error",
+    "- Fix auto update"
+  ]
+}
